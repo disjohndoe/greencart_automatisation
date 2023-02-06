@@ -201,7 +201,3 @@ user_input_check(user_input.title())
 
 browser_automation()
 
-# if true:
-# print("Test je prošao")
-# else:
-# print("Pozovite Hrvoja Matoševića na 097/7120-800 da popravi")
